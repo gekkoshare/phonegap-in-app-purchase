@@ -25,7 +25,7 @@ SOFTWARE.
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="cc.fovea.cordova.purchase"
+    id="cc.gekkoshare.cordova.purchase"
     version="6.0.0">
 
     <name>Purchase</name>
